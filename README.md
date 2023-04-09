@@ -5,7 +5,7 @@ This project is aimed at analysis using data visualization in Tableau.
 In this project choose [Madrid in Detail] (https://public.tableau.com/views/MadridInDetail/MadridinDetail?%3Aembed=y&%3Atoolbar=yes&%3AloadOrderID=0&%3Adisplay_count=y%3F%3Aembed&%3AshowVizHome=no). dashboards to find three
 insights in the visualizations.
 
-# My Project
+### My Project
 
 ![Screenshot (1615)](https://user-images.githubusercontent.com/70021800/230786088-343244a7-12d5-4f65-ba25-5306bc09b9e3.png)
 
@@ -26,9 +26,9 @@ on Chamberi to show rate female and male based age 20-24.
 In this histogram is shown a relation between house prices in 2015 and 
 passenger cars per 100 inhabitants. I clicked on Chamberi on the
 histogram , that show three information:
-## Average house price.
-## Cars per 100 inhabitants.
-## Population Density.
+- Average house price.
+- Cars per 100 inhabitants.
+- Population Density.
 
 
 
